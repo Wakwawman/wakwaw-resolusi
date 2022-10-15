@@ -5,3 +5,4 @@ RENCANA KONTEN WAKWAW
   * Framework Javascript
 - Belajar Mikrotik
 - belajar
+- Struktur data dasar
