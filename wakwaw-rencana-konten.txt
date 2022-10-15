@@ -1,0 +1,7 @@
+RENCANA KONTEN WAKWAW
+
+- Belajar Javascript
+  * ES6
+  * Framework Javascript
+- Belajar Mikrotik
+- belajar
