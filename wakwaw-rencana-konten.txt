@@ -3,6 +3,11 @@ RENCANA KONTEN WAKWAW
 - Belajar Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Belajar Mikrotik
+- PHP Framework
+  * Laravel
 - belajar
 - Struktur data dasar
+- Python
