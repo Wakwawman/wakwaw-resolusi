@@ -3,6 +3,8 @@ RENCANA KONTEN WAKWAW
 - Belajar Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
+    ^ React
 - Belajar Mikrotik
 - belajar
-- Struktur data dasar
+
